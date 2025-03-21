@@ -9,7 +9,7 @@
 #include "cyw_aes.h"
 #include "cyw_util.h"
 #include "erpsales/erpsales.h"
-
+#include "mallreport/cyw_mallreport.h"
 using std::string;
 using std::vector;
 using std::stringstream;

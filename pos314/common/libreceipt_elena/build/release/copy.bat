@@ -1,0 +1,2 @@
+copy C:\Users\cyware\brewery\receipt\libreceipt_elena\build\release\libreceiptelena.a c:\Users\cyware\brewery
+copy C:\Users\cyware\brewery\receipt\libreceipt_elena\build\release\receiptelena.dll c:\Apache24\cgi-bin

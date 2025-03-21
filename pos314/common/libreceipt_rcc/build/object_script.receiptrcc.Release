@@ -1,0 +1,12 @@
+/tmp/receipt_rcc/cyreceiptrcc.o
+/tmp/receipt_rcc/cyreceiptrcc_account.o
+/tmp/receipt_rcc/cyreceiptrcc_claimstub.o
+/tmp/receipt_rcc/cyreceiptrcc_detail.o
+/tmp/receipt_rcc/cyreceiptrcc_footer.o
+/tmp/receipt_rcc/cyreceiptrcc_giftwrap.o
+/tmp/receipt_rcc/cyreceiptrcc_header.o
+/tmp/receipt_rcc/cyreceiptrcc_payment.o
+/tmp/receipt_rcc/cyreceiptrcc_promoitem.o
+/tmp/receipt_rcc/cyreceiptrcc_signature.o
+/tmp/receipt_rcc/cyreceiptrcc_totals.o
+/tmp/receipt_rcc/cyreceiptrcc_vat.o

@@ -1,0 +1,2 @@
+copy C:\Users\cyware\brewery\receipt\libreceipt_joel\build\debug\libreceiptjoel.a c:\Users\cyware\brewery
+copy C:\Users\cyware\brewery\receipt\libreceipt_joel\build\debug\receiptjoel.dll c:\Apache24\cgi-bin

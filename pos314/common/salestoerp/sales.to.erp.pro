@@ -56,12 +56,18 @@ unix:!mac {
 }
 
 TARGET  = salestoerp.cgi
+#TARGET  = salestomallrep.cgi
 OBJECTS_DIR = /tmp/sales2erp
 UI_DIR = /tmp/sales2erp
 MOC_DIR = /tmp/sales2erp
 
 
 SOURCES += \
+    ../mallreport/cymallayala.cpp \
+    ../mallreport/cymallmegaworld.cpp \
+    ../mallreport/cymallrobinson.cpp \
+    ../mallreport/cymallsmsia.cpp \
+    ../mallreport/cyw_mallreport.cpp \
     /Users/pos314/common/mysqlpublish/cytable.cpp \
     /Users/pos314/common/liblegacy/cyw_mem_curl.cpp \
     /Users/pos314/common/restpos/restlogic/salesfilter.cpp \
@@ -107,6 +113,8 @@ SOURCES += \
 
 HEADERS += \
     ../../include/restsvc/erpsales/erpsales.h \
+    ../../include/restsvc/mallreport/cyw_mallreport.h \
+    ../../include/restsvc/storesales/cyrestmallreport.h \
     /Users/pos314/include/cgic.h \
     /Users/pos314/include/col/column.h \
     /Users/pos314/include/col/column_array.h \

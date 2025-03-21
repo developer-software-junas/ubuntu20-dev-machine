@@ -1,0 +1,2 @@
+copy C:\Users\cyware\brewery\receipt\libreceipt_rcc\build\release\libreceiptrcc.a c:\Users\cyware\brewery
+copy C:\Users\cyware\brewery\receipt\libreceipt_rcc\build\release\receiptrcc.dll c:\Apache24\cgi-bin
